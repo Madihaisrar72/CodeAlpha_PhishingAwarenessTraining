@@ -56,9 +56,9 @@ CodeAlpha_PhishingAwarenessTraining/
 
 Upload a screenshot of your presentation as:
 
-```
+
 presentation_preview.png
-```
+
 
 Then GitHub will automatically display it below.
 
