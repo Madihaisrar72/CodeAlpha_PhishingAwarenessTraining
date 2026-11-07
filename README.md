@@ -54,13 +54,13 @@ CodeAlpha_PhishingAwarenessTraining/
 
 ## 📸 Presentation Preview
 
-Upload a screenshot of your presentation as:
+
 
 
 ![Presentation Preview](presentation_preview.png)
-![Presentation Preview](Phishing-Awareness-Training.pptx)
 
-Then GitHub will automatically display it below.
+
+
 
 
 
